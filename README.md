@@ -25,3 +25,9 @@ Currently, the dummy site contains 2 pages `index` and `about` with the `LikeBut
 - [ ] Connect with firebase
 - [ ] Allow users to customize the style of button
 - [ ] Publish to npm
+
+## Talk
+
+I gave a talk in [React Knowledgable](https://reactknowledgeable.org/) meetup in Singapore to show how we can build a gatsby theme. The details are as follows:
+
+[Slide](build-gatsby-theme-talk.key) | [Video](https://youtu.be/kPoOrYKv7SE)
